@@ -28,7 +28,4 @@ The objective of this project is to assist the owner of the store in creating a 
 ### Dashboard Screenshot
 ![Dashboard Screenshot](PHOTO-2024-04-12-15-27-51.jpg)
 
-## Code for Dashboard Screenshot
 
-```markdown
-![Dashboard Screenshot](PHOTO-2024-04-12-15-27-51.jpg)
